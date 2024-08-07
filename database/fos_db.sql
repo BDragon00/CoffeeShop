@@ -127,10 +127,10 @@ CREATE TABLE `product_list` (
 --
 
 INSERT INTO `product_list` (`id`, `category_id`, `name`, `description`, `price`, `img_path`, `status`) VALUES
-(1, 3, 'Diet Coke', 'In Can', 20, '1600652160_diet_coke.jpg', 1),
-(3, 3, 'Lemon Iced Tea', 'Sample', 15, '1600652520_lemon iced tea.jpg', 1),
-(4, 4, 'Chicken', 'Sample only', 150, '1600652880_chicken.jpg', 1),
-(5, 3, 'Steak', 'Sample 2', 200, '1600652880_steak.jpg', 1),
+(1, 3, 'Diet Coke', 'In Can', 20, 'assets/img/1600652160_diet_coke.jpg', 1),
+(3, 3, 'Lemon Iced Tea', 'Sample', 15, 'assets/img/1600652520_lemon iced tea.jpg', 1),
+(4, 4, 'Chicken', 'Sample only', 150, 'assets/img/1600652880_chicken.png', 1),
+(5, 3, 'Steak', 'Sample 2', 200, 'assets/img/1600652880_steak.webp', 1),
 (6, 4, 'Chicken2', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.', 250, '1600656600_checken2.jpg', 1),
 (7, 4, 'Food 101', 'Ut volutpat arcu sed ex sagittis, non pulvinar justo euismod. Mauris ligula urna, tristique ut nisi in, gravida fermentum sapien. Duis feugiat pulvinar tellus nec lacinia. Ut non erat vitae arcu bibendum elementum quis in est. Aliquam vel tristique massa. Vivamus lacinia massa nisl, molestie consectetur ex lobortis in. Nulla blandit nulla in purus luctus dictum. Quisque orci ligula, rhoncus sit amet justo at, consectetur dignissim eros.', 55, '1673245740_food-bg.jpg', 1);
 

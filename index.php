@@ -15,7 +15,7 @@
 
     <style>
     	header.masthead {
-		  background: url(assets/img/<?php echo $_SESSION['setting_cover_img'] ?>);
+		  background: url(assets/img/food-bg.jpg);
 		  background-repeat: no-repeat;
 		  background-size: cover;
 		  background-position: center center;

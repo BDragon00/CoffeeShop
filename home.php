@@ -3,9 +3,9 @@
             <div class="container h-100">
                 <div class="row h-100 align-items-center justify-content-center text-center">
                     <div class="col-lg-10 align-self-center mb-4 page-title">
-                    	<h1 class="text-white">Welcome to <?php echo $_SESSION['setting_name']; ?></h1>
+                    	<h1 class="text-white">Mừng chủ nhân đến với <?php echo $_SESSION['setting_name']; ?></h1>
                         <hr class="divider my-4 bg-dark" />
-                        <a class="btn btn-dark bg-black btn-xl js-scroll-trigger" href="#menu">Order Now</a>
+                        <a class="btn btn-dark bg-black btn-xl js-scroll-trigger" href="#menu">Lựa món ngay </a>
 
                     </div>
                     
@@ -13,7 +13,7 @@
             </div>
         </header>
 	<section class="page-section" id="menu">
-        <h1 class="text-center text-cursive" style="font-size:3em"><b>Menu</b></h1>
+        <h1 class="text-center text-cursive" style="font-size:3em"><b>Thực đơn</b></h1>
         <div class="d-flex justify-content-center">
             <hr class="border-dark" width="5%">
         </div>
